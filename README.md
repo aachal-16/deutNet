@@ -4,7 +4,6 @@ code is in master branch
 
 steps
 git clone https://github.com/aachal-16/deutNet.git
-cd property-search-app
 
 steps to follow for server folder
 1) npm install json-server
