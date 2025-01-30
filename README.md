@@ -1,13 +1,18 @@
 server folder is for json-server
 property_listing is for frontend
+
+
 code is in master branch
 
 steps
+
 git clone https://github.com/aachal-16/deutNet.git
 
 steps to follow for server folder
+
 1) npm install json-server
 2)json-server --watch db.json --port 5000
+
 server will be up and running
 
 steps to follow for property_listing
