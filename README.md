@@ -5,8 +5,13 @@ property_listing is for frontend
 steps
 
 git clone https://github.com/aachal-16/deutNet.git
+checkout to master
 
 code is in master branch
+
+cd deutNet
+
+cd server
 
 steps to follow for server folder
 
@@ -15,6 +20,11 @@ steps to follow for server folder
 
 server will be up and running
 
+in another terminal
+
+cd deutNet
+
+cd property_listing
 steps to follow for property_listing
 1)npm install
 2)npm start
