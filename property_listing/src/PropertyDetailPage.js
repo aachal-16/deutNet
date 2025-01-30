@@ -9,7 +9,9 @@ const PropertyDetailPage = ({ properties }) => {
   const dummyImage = './images/home.jpg';
 
   useEffect(() => {
-    const fetchedProperty = properties.find((property) => property.id === parseInt(id));
+    //property id is set here
+    const fetchedProperty = properties.find((property) => property.id === id);
+
     if (fetchedProperty) {
       setProperty(fetchedProperty);
     } else {
