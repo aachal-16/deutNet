@@ -1,0 +1,166 @@
+
+{
+    "properties": [
+      {
+        "id": 1,
+        "image_url": "https://i.pinimg.com/736x/29/9f/a8/299fa8fbec2cb1912c7041e0220ef021.jpg",
+        "title": "Luxurious 3BHK Apartment",
+        "price": 450000,
+        "currency": "USD",
+        "location": "Miami, Florida, USA",
+        "short_description": "A stunning 3-bedroom apartment with breathtaking ocean views and modern amenities.",
+        "long_description": "This exquisite 3BHK apartment is located in the heart of Miami, offering panoramic ocean views. It features a spacious living room, a modular kitchen, and three well-lit bedrooms with attached balconies. The society includes a swimming pool, gym, and a children's play area, making it perfect for families."
+      },
+      {
+        "id": 2,
+        "image_url": "https://media.istockphoto.com/id/2141319586/photo/modern-house-exterior-day-light-with-lawn-grass-3d-rendering.jpg?s=612x612&w=is&k=20&c=d65cCi3sHi7o3FDuucHbaI03jgcKt01AsUWJEKUnMkw=",
+        "title": "Cozy Countryside Cottage",
+        "price": 280000,
+        "currency": "USD",
+        "location": "Asheville, North Carolina, USA",
+        "short_description": "A charming 2-bedroom cottage surrounded by lush greenery in a peaceful countryside setting.",
+        "long_description": "Nestled in the picturesque hills of Asheville, this cozy 2BHK cottage is perfect for nature lovers. The property boasts a rustic interior with wooden flooring, a fireplace, and a private garden. Enjoy the tranquility of the countryside while being just a short drive from the city center."
+      },
+      {
+        "id": 3,
+        "image_url": "https://media.istockphoto.com/id/1026205392/photo/beautiful-luxury-home-exterior-at-twilight.jpg?b=1&s=612x612&w=0&k=20&c=FFc1oX54JEIVF4P5613J9Ng7CaN2rmjSU7m1vsnfi1s=",
+        "title": "Modern Studio Apartment",
+        "price": 350000,
+        "currency": "USD",
+        "location": "New York City, New York, USA",
+        "short_description": "A sleek and stylish studio apartment in the heart of downtown NYC with top-notch facilities.",
+        "long_description": "This modern studio apartment offers the best of urban living with state-of-the-art facilities. It features an open-concept design, floor-to-ceiling windows, a gourmet kitchen, and a luxurious bathroom. The building includes a rooftop lounge, a fitness center, and 24/7 security."
+      },
+      {
+        "id": 4,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRqoGzddDGav-zHkhLuVpMfQsyN4TPSfPxHQOwTbKkgSCY35OyrDgyIFQw-7DkO_o4A_k&usqp=CAU",
+        "title": "Spacious 4BHK Villa",
+        "price": 750000,
+        "currency": "USD",
+        "location": "Los Angeles, California, USA",
+        "short_description": "A luxurious 4-bedroom villa with a private swimming pool and lush garden.",
+        "long_description": "This 4BHK villa in Los Angeles offers an unmatched living experience. It features a private pool, a large backyard, and an open-plan living area. Perfect for those who value privacy and luxury."
+      },
+      {
+        "id": 5,
+        "image_url": "https://i.pinimg.com/736x/29/9f/a8/299fa8fbec2cb1912c7041e0220ef021.jpg",
+        "title": "Elegant 2BHK Apartment",
+        "price": 320000,
+        "currency": "USD",
+        "location": "Chicago, Illinois, USA",
+        "short_description": "A stylish 2-bedroom apartment with stunning city views and modern interiors.",
+        "long_description": "Located in downtown Chicago, this 2BHK apartment boasts a contemporary design, high ceilings, and a balcony with breathtaking skyline views. Ideal for professionals and small families."
+      },
+      {
+        "id": 6,
+        "image_url": "https://media.istockphoto.com/id/2141319586/photo/modern-house-exterior-day-light-with-lawn-grass-3d-rendering.jpg?s=612x612&w=is&k=20&c=d65cCi3sHi7o3FDuucHbaI03jgcKt01AsUWJEKUnMkw=",
+        "title": "Charming Beachfront Bungalow",
+        "price": 500000,
+        "currency": "USD",
+        "location": "Santa Monica, California, USA",
+        "short_description": "A beautiful 3-bedroom beachfront bungalow with direct access to the ocean.",
+        "long_description": "Wake up to the sound of waves in this stunning 3BHK beachfront bungalow. It features a spacious deck, a modern kitchen, and a private garden. Perfect for beach lovers!"
+      },
+      {
+        "id": 7,
+        "image_url": "https://media.istockphoto.com/id/1026205392/photo/beautiful-luxury-home-exterior-at-twilight.jpg?b=1&s=612x612&w=0&k=20&c=FFc1oX54JEIVF4P5613J9Ng7CaN2rmjSU7m1vsnfi1s=",
+        "title": "Luxury Penthouse",
+        "price": 1200000,
+        "currency": "USD",
+        "location": "Manhattan, New York, USA",
+        "short_description": "A breathtaking penthouse with floor-to-ceiling windows and rooftop access.",
+        "long_description": "This ultra-luxurious penthouse offers an open-plan living area, a private rooftop, and a panoramic view of the city. High-end finishes and smart home technology make this a dream home."
+      },
+      {
+        "id": 8,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRqoGzddDGav-zHkhLuVpMfQsyN4TPSfPxHQOwTbKkgSCY35OyrDgyIFQw-7DkO_o4A_k&usqp=CAU",
+        "title": "Classic Colonial House",
+        "price": 650000,
+        "currency": "USD",
+        "location": "Boston, Massachusetts, USA",
+        "short_description": "A stunning 5-bedroom colonial house with a large backyard and historic charm.",
+        "long_description": "This classic colonial house features original woodwork, a spacious backyard, and a newly renovated kitchen. Ideal for families looking for comfort and style."
+      },
+      {
+        "id": 9,
+        "image_url": "https://media.istockphoto.com/id/2141319586/photo/modern-house-exterior-day-light-with-lawn-grass-3d-rendering.jpg?s=612x612&w=is&k=20&c=d65cCi3sHi7o3FDuucHbaI03jgcKt01AsUWJEKUnMkw=",
+        "title": "Compact 1BHK Condo",
+        "price": 225000,
+        "currency": "USD",
+        "location": "San Francisco, California, USA",
+        "short_description": "A modern 1BHK condo in the heart of the business district, perfect for professionals.",
+        "long_description": "This compact yet stylish 1BHK condo is perfect for young professionals. It offers easy access to business hubs, a gym, and a rooftop garden."
+      },
+      {
+        "id": 10,
+        "image_url": "https://i.pinimg.com/736x/29/9f/a8/299fa8fbec2cb1912c7041e0220ef021.jpg",
+        "title": "Riverside Mansion",
+        "price": 1500000,
+        "currency": "USD",
+        "location": "Seattle, Washington, USA",
+        "short_description": "A grand riverside mansion with a private dock and a home theater.",
+        "long_description": "This luxurious mansion features high ceilings, marble flooring, and a private dock for boats. Enjoy stunning river views and a state-of-the-art home theater."
+      },
+      {
+        "id": 11,
+        "image_url": "https://media.istockphoto.com/id/1026205392/photo/beautiful-luxury-home-exterior-at-twilight.jpg?b=1&s=612x612&w=0&k=20&c=FFc1oX54JEIVF4P5613J9Ng7CaN2rmjSU7m1vsnfi1s=",
+        "title": "Luxurious 5BHK Apartment",
+        "price": 450000,
+        "currency": "USD",
+        "location": "Miami, Florida, USA",
+        "short_description": "A stunning 3-bedroom apartment with breathtaking ocean views and modern amenities.",
+        "long_description": "This exquisite 3BHK apartment is located in the heart of Miami, offering panoramic ocean views. It features a spacious living room, a modular kitchen, and three well-lit bedrooms with attached balconies. The society includes a swimming pool, gym, and a children's play area, making it perfect for families."
+      },
+      {
+        "id": 12,
+        "image_url": "https://i.pinimg.com/736x/29/9f/a8/299fa8fbec2cb1912c7041e0220ef021.jpg",
+        "title": "Cozy Riverside Cottage",
+        "price": 280000,
+        "currency": "USD",
+        "location": "Asheville, North Carolina, USA",
+        "short_description": "A charming 2-bedroom cottage surrounded by lush greenery in a peaceful countryside setting.",
+        "long_description": "Nestled in the picturesque hills of Asheville, this cozy 2BHK cottage is perfect for nature lovers. The property boasts a rustic interior with wooden flooring, a fireplace, and a private garden. Enjoy the tranquility of the countryside while being just a short drive from the city center."
+      },
+      {
+        "id": 13,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRqoGzddDGav-zHkhLuVpMfQsyN4TPSfPxHQOwTbKkgSCY35OyrDgyIFQw-7DkO_o4A_k&usqp=CAU",
+        "title": "Modern Studio Apartment",
+        "price": 350000,
+        "currency": "USD",
+        "location": "New York City, New York, USA",
+        "short_description": "A sleek and stylish studio apartment in the heart of downtown NYC with top-notch facilities.",
+        "long_description": "This modern studio apartment offers the best of urban living with state-of-the-art facilities. It features an open-concept design, floor-to-ceiling windows, a gourmet kitchen, and a luxurious bathroom. The building includes a rooftop lounge, a fitness center, and 24/7 security."
+      },
+      {
+        "id": 14,
+        "image_url": "https://media.istockphoto.com/id/1026205392/photo/beautiful-luxury-home-exterior-at-twilight.jpg?b=1&s=612x612&w=0&k=20&c=FFc1oX54JEIVF4P5613J9Ng7CaN2rmjSU7m1vsnfi1s=",
+        "title": "Spacious 4BHK Villa",
+        "price": 750000,
+        "currency": "USD",
+        "location": "Los Angeles, California, USA",
+        "short_description": "A luxurious 4-bedroom villa with a private swimming pool and lush garden.",
+        "long_description": "This 4BHK villa in Los Angeles offers an unmatched living experience. It features a private pool, a large backyard, and an open-plan living area. Perfect for those who value privacy and luxury."
+      },
+      {
+        "id": 15,
+        "image_url": "https://media.istockphoto.com/id/2141319586/photo/modern-house-exterior-day-light-with-lawn-grass-3d-rendering.jpg?s=612x612&w=is&k=20&c=d65cCi3sHi7o3FDuucHbaI03jgcKt01AsUWJEKUnMkw=",
+        "title": "Elegant 9BHK Apartment",
+        "price": 320000,
+        "currency": "USD",
+        "location": "Chicago, Illinois, USA",
+        "short_description": "A stylish 9-bedroom apartment with stunning city views and modern interiors.",
+        "long_description": "Located in downtown Chicago, this 9BHK apartment boasts a contemporary design, high ceilings, and a balcony with breathtaking skyline views. Ideal for professionals and small families."
+      },
+      {
+        "id": 16,
+        "image_url": "https://i.pinimg.com/736x/29/9f/a8/299fa8fbec2cb1912c7041e0220ef021.jpg",
+        "title": "Charming Riverside Bungalow",
+        "price": 500000,
+        "currency": "USD",
+        "location": "Santa Monica, California, USA",
+        "short_description": "A beautiful 3-bedroom Riverside bungalow with direct access to the ocean.",
+        "long_description": "Wake up to the sound of waves in this stunning 3BHK Riverside bungalow. It features a spacious deck, a modern kitchen, and a private garden. Perfect for beach lovers!"
+      }
+    ]
+  }
+  
