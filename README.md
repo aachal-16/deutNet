@@ -1,8 +1,9 @@
 server folder is for json-server
 property_listing is for frontend
+code is in master branch
 
 steps
-git clone https://github.com/your-username/property-search-app.git
+git clone https://github.com/aachal-16/deutNet.git
 cd property-search-app
 
 steps to follow for server folder
