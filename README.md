@@ -25,6 +25,7 @@ in another terminal
 cd deutNet
 
 cd property_listing
+
 steps to follow for property_listing
 1)npm install
 2)npm start
